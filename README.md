@@ -4,10 +4,10 @@ Welcome to my Data Preprocessing Template repository for Machine Learning! 🚀
 This repository contains a comprehensive data preprocessing template to kickstart your Machine Learning projects. As you embark on your ML journey, you'll quickly realize that data preprocessing is a crucial step to ensure the success of your models. This template is designed to help you clean, transform, and prepare your raw data before feeding it into your ML algorithms.
 
 Key Features:
-Getting datasets
-Importing the libraries
-Importing the datasets
-Categorical data
+Getting datasets,\n
+Importing the libraries, \n
+Importing the datasets, \n
+Categorical data, \n
 Splitting the dataset into training and testing set
 
 Getting Started:
